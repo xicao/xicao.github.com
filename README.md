@@ -1,6 +1,6 @@
 # Notes
 
-Mate notes of something
+Making notes of something
 
 ## Tags
 
@@ -8,4 +8,4 @@ Mate notes of something
 
 ## Notes
 
-- *2019-06-17* [first](./first)
+- *2019-06-17* [notes/first](./notes/first)

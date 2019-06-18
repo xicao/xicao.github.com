@@ -1,3 +1,3 @@
 # random
 
-- *2019-06-17* [first](./first)
+- *2019-06-17* [notes/first](./notes/first)
