@@ -4,5 +4,5 @@ tags: random
 ---
 
 # First Note
-- not last note
-- hope not
+- not the last note
+- hopefully not
