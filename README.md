@@ -8,4 +8,4 @@ Making notes of something
 
 ## Notes
 
-- *2019-06-18* [notes/first](./notes/first)
+- *2019-06-17* [notes/first](./notes/first)
