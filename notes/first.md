@@ -1,8 +1,6 @@
 ---
-date: 2019-06-17
-tags: random
+date: 2019-07-29
+tags: webpack
 ---
 
-# First Note
-- not the last note
-- hopefully not
+# Webpack Notes

@@ -1,11 +1,11 @@
-# Notes
+# Practicode
 
-Making notes of something
+Coding Practice and Taking Notes
 
 ## Tags
 
-- [random](./tags/random)
+- [webpack](./tags/webpack)
 
 ## Notes
 
-- *2019-06-17* [notes/first](./notes/first)
+- *2019-07-29* [notes/first](./notes/first)
