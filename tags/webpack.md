@@ -1,3 +1,3 @@
 # webpack
 
-- *2019-07-29* [notes/first](./notes/first)
+- *2019-07-29* [webpack/Introduction](./webpack/Introduction)
